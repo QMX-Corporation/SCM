@@ -1,6 +1,6 @@
 # THE CONTRIBUTORS OF QMX CORPORATION - OVAM FIRMWARE 
 
-The following developers hold original intellectual property rights over the Open Vallen Ard Man core architecture and cryptographic engine.
+The following developers hold original intellectual property rights over the System Control Manager (SCM).
 
 ### AUHORS
 - **dev12124**, dev brazilian, João Guilherme da Silva Freitas Lima <joaoanandalima@gmail.com>
