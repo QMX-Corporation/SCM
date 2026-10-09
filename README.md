@@ -12,8 +12,7 @@
 ## Navigation
 - [LICENSE HEADER](#license-header)
 - [RULES](#rules)
-- [FUTURE IMPLEMENTATIONS](#futures-implementations)
-- [FOLDER STRUCTURES](#folder-structures)
+- [FUTURE IMPLEMENTATIONS](next-implementations)
 
 ---
 
