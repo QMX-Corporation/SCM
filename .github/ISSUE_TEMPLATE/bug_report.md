@@ -1,6 +1,6 @@
 ---
 name: 🐛 Bug Report
-about: Report a compilation error or architectural malfunction in OVAM.
+about: Report a compilation error or architectural malfunction in SCM.
 title: '[BUG]: '
 labels: bug, unverified
 assignees: dev12124
