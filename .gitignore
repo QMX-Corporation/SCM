@@ -1,0 +1,9 @@
+# Ignore all desnecessary objects 
+Build/
+.git/
+*.o 
+*.exe 
+*.obj 
+# Objects .info is generated for Scripts for 
+# Debug
+*.info 
